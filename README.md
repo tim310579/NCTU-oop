@@ -15,8 +15,8 @@ e.g.
 ### hw2
 vector and matrix calculatoin
 
-do some operator overloading
+1. do some operator overloading
 
-support vector add/sub/multiply/devide
+2. support vector add/sub/multiply/devide
 
-use vector to do some matrix calculation, like matrix multiply and...
+3. use vector to do some matrix calculation, like matrix multiply and...
