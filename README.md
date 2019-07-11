@@ -20,3 +20,12 @@ vector and matrix calculatoin
 2. support vector add/sub/multiply/devide
 
 3. use vector to do some matrix calculation, like matrix multiply and...
+
+### hw3
+link list
+
+1. do some insert and delete
+
+2. find some location in a link list
+
+3. equalty between two linklist
