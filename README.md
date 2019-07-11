@@ -36,3 +36,10 @@ hashtable
 1. get patient's gender, height, weight with a hashtable
 
 2. measure the mean time
+
+### hw5
+RB tree
+
+1. data is like hw4
+
+2. implement with RB tree
