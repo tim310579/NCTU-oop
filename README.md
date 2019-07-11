@@ -29,3 +29,10 @@ link list
 2. find some location in a link list
 
 3. equalty between two linklist
+
+### hw4
+hashtable
+
+1. get patient's gender, height, weight with a hashtable
+
+2. measure the mean time
